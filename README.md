@@ -1,2 +1,2 @@
-# Sushi-Restaurant
-SUSHİ RESTAURANT
+# Sushi Restaurant
+HTML-CSS-JS(scrollreveal.js)
